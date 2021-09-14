@@ -1,5 +1,11 @@
 # astro
 
+## 0.20.6
+
+### Patch Changes
+
+- dd92871f: During CSS bundling separate processing of `rel="preload"` from normal loading stylesheets, to preserve preloads, and source element attributes like `media`.
+
 ## 0.20.5
 
 ### Patch Changes
